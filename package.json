@@ -1,0 +1,30 @@
+{
+  "name": "now_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferNorthrup/now_test.git"
+  },
+  "author": "Jennifer Northrup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniferNorthrup/now_test/issues"
+  },
+  "homepage": "https://github.com/JenniferNorthrup/now_test#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "hapi": "^17.2.0",
+    "http": "0.0.0",
+    "inert": "^5.0.1",
+    "joi": "^13.1.0",
+    "now": "^9.0.1",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
